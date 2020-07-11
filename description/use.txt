@@ -1,6 +1,12 @@
 <div id='cwq'>
-<h2>Hello</h2>
-<p>Yes Yehia</p>
+<ol>
+<li>Click the CodePen <strong>Fork</strong> link above to create a new copy</li>
+<li>Change the CSS (SCSS) as desired</li>
+<li>Click <strong>Save</strong> to save your changes</li>
+<li>Click <strong>Settings</strong> to name and describe your skin</li>
+<li>Click the <strong>Share</strong> link to tweet your skin, and include @videojs so we know about it</li>
+</ol>
+
 </div>
 <div id='Test'>
 Content
